@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhaopenglei/Documents/android/workspace/studiospace/vr/CardBroad-Learn/modules/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zhaopenglei/Documents/android/workspace/studiospace/vr/CardBroad-Learn/modules/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhaopenglei/Documents/android/workspace/studiospace/vr/CardBroad-Learn/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zhaopenglei/Documents/android/workspace/studiospace/vr/CardBroad-Learn/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
