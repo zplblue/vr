@@ -1,4 +1,4 @@
-## learn android vr cardbroad learn
+## learn android vr cardbroad
 
 it's a simple about android vr cardbroad;
 
